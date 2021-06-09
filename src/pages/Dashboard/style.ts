@@ -21,7 +21,7 @@ export const Form = styled.form<FormProps>`
 
   input {
     flex: 1;
-    height: 60px;
+    height: 55px;
     padding: 0 24px;
     border: 0;
     border-radius: 5px 0 0 5px;
@@ -41,7 +41,7 @@ export const Form = styled.form<FormProps>`
 
   button {
     width: 210px;
-    height: 60px;
+    height: 55px;
     background: #04d361;
     border-color: 0px 5px 5px 0px;
     border: 0;
